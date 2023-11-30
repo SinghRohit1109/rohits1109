@@ -27,7 +27,7 @@ img{
 p{
     color: black;
     font-size: 1.4rem;
-    margin-top: 5px;
+    margin-top: 11px;
     line-height: 2.5rem;
     font-weight: 300;
     letter-spacing: .05rem;
@@ -454,7 +454,8 @@ p{
 	margin-right: 10px;
 }
 #projects .project-info .links {
-	padding: 6px;
+	padding: 8px;
+	margin-top: 5 px;
     border: 2px solid white;
     border-radius: 25px;
 }
